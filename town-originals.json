@@ -132,7 +132,7 @@
             "sr-3m vikhr":"105185950341564",
             "steyr elite":"1112858108",
             "sw 500":"149915226",
-            "sw 500 silenced (literally m4a1-s from cs2)":"137157213062052",
+            "sw 500 silenced":"137157213062052",
             "tmp":"6165632036",
             "tmp silenced":"17440797511",
             "tumor growth":"363808674",
@@ -152,7 +152,7 @@
             "zip-22":"115945634317857",
             "zip-22 silenced":"92764131388896"
         }, 
-        "Other sounds (this will be expanded upon)":{
+        "Other sounds this will be expanded upon":{
             "piano song":"1838853744"
         }
     },
@@ -170,12 +170,12 @@
      "skybox":{
         "skybox up":"91458002",
         "skybox down":"91457980",
-        "skybox sides (I hate town devs for this)":"91458024"
+        "skybox sides":"91458024"
      }
   },
    "bannable":{
     "models":{
-        "Iron sights (remove all the IDs to remove the irons for the guns below.)":{
+        "Iron sights remove the IDs to remove the irons for the guns below.":{
             "ar-10":[
                 "13936168935",
                 "13936170981",
@@ -263,7 +263,7 @@
             ],
             "steyr elite":"12331625451"
         },
-        "Iron sights (replace with .obj)":{
+        "Iron sights replace with .obj":{
             "ak-15 front irons":"15466976753",
             "ak-47 front irons":"10216524539",
             "as val front irons":"12331656513",
@@ -278,10 +278,9 @@
         }
      },
      "images and decals and whatnot":{
-        "trees and leaves (Replace them with a transparent Decal to see through vegitation. A transparent Decal ID is provided in replacements. Do not remove only replace.)":[
+        "trees and leaves Replace them with a transparent Decal to see through vegitation. A transparent Decal ID is provided in replacements. Do not remove only replace.":[
             "75825871676087",
             "16641695115",
-            "2475690296",
             "15790312013",
             "2686753922",
             "15790343871"
