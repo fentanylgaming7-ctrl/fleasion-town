@@ -175,7 +175,7 @@
   },
    "bannable":{
     "models":{
-        "iron sights (remove all the IDs to remove the irons for the guns below. Every gun missing will be added later since for those I have to edit them using blender and upload them as .obj)":{
+        "Iron sights (remove all the IDs to remove the irons for the guns below.)":{
             "ar-10":[
                 "13936168935",
                 "13936170981",
@@ -208,6 +208,7 @@
                 "13417116423",
                 "13417117345"
             ],
+            "m4 carbine rear iron":"12331626868",
             "mk17" :[
                 "5671128160",
                 "5762387058"
@@ -249,6 +250,7 @@
                 "10623345062",
                 "10623345183"
             ],
+            "sr-3m vikhr rear iron":"80239432478779",
             "sg-552":[
                 "13755092379",
                 "13755092412"
@@ -260,10 +262,23 @@
                 "11588273769"
             ],
             "steyr elite":"12331625451"
+        },
+        "Iron sights (replace with .obj)":{
+            "ak-15 front irons":"15466976753",
+            "ak-47 front irons":"10216524539",
+            "as val front irons":"12331656513",
+            "g3a3 front irons":"13746423530",
+            "l2a1 slr irons":"16663424316",
+            "m4 carbine front irons":"12331626941",
+            "mg4 belt cover and rear irons":"12331626967",
+            "pp2000 irons":"12331789190",
+            "qbz-95 front irons":"12331793329",
+            "sr-2 irons":"12331800390",
+            "sr-3m vikhr front irons":"74086820500739"
         }
      },
      "images and decals and whatnot":{
-        "trees and leaves":[
+        "trees and leaves (Replace them with a transparent Decal to see through vegitation. A transparent Decal ID is provided in replacements. Do not remove only replace.)":[
             "75825871676087",
             "16641695115",
             "2475690296",
@@ -285,4 +300,3 @@
 
   }
 }
- 
