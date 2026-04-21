@@ -1,0 +1,17 @@
+{
+    "Replacements" : {
+        "Models" :{
+          "ak-15 remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/ak-15%20front%20iron%20remove.obj",
+          "ak-47 remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/ak-47%20front%20iron%20remove.obj",
+          "as val remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/as%20val%20front%20iron%20remove.obj",
+          "g3a3 remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/g3a3%20front%20iron%20remove.obj",
+          "L2A1 remove irons":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/L2A1%20remove%20irons.obj",
+          "m4 carbine remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/m4%20front%20iron%20remove.obj",
+          "mg4 remove rear iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/mg4%20rear%20belt%20no%20iron.obj",
+          "pp2000 remove irons":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/pp2k%20remove%20irons.obj",
+          "sr-3m remove front iron":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/sr-3m%20remove%20front%20iron.obj",
+          "sr2 remove irons":"https://raw.githubusercontent.com/fentanylgaming7-ctrl/fleasion-town/refs/heads/main/sr2%20remove%20irons.obj"
+        },
+        "Transparent Decal (Replace trees and leaves with this)":"9789474866"
+    }
+}
