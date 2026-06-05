@@ -70,6 +70,7 @@
             "m26 mass":"13744970222",
             "m37 featherweight":"18936762326",
             "m4 carbine":"5631260448",
+            "m4 carbine silenced":"6716206056",
             "m870":"6755640173",
             "m9":"5108456558",
             "m950 helical":"133708879042218",
@@ -153,7 +154,9 @@
             "zip-22 silenced":"92764131388896"
         }, 
         "Other sounds (this will be expanded upon)":{
-            "piano song":"1838853744"
+            "piano song":"1838853744",
+            "ambience day":"9116970135",
+            "ambience night":"9165844042"
         }
     },
      "reticles":{
